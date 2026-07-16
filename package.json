@@ -1,6 +1,7 @@
 {
   "name": "gitsight",
   "version": "1.0.0",
+  "type": "module",
   "description": "WIP",
   "main": "index.js",
   "scripts": {
